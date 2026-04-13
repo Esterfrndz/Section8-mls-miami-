@@ -1,0 +1,8 @@
+# Credenciales - NUNCA subir
+.env
+data/listings_section8.json
+logs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
